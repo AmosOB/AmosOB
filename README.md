@@ -1,10 +1,4 @@
 - 👋 Hi, I’m Amos Babu from Kenya :kenya: and I am a web design and developer I handle both frontend and backend well I am basically a fullstack developer.:+1:
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AmosOB/AmosOB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in continuing to studying python language mainly for the machine language which i seem to like so much. I also like developing Websites and so i study more frameworks.
+- 🌱 I’m currently learning current i am learning python machine language and its framwprk django for web development as well as react js.
+- 📫 You can reach me through my email amos.babu@yahoo.com.
