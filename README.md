@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amos Babu from Kenya :kenya: and I am a web design and developer I handle both frontend and backend well I am basically a fullstack developer.:+1:
-- 👀 I’m interested in continuing to studying python language mainly for the machine language which i seem to like so much. I also like developing Websites and so i study more frameworks.
-- 🌱 I’m currently learning current i am learning python machine language and its framwprk django for web development as well as react js.
-- 📫 You can reach me through my email amos.babu@yahoo.com.
+- 👋 I'm Amos Babu, and I'm from Kenya. I am a web designer and developer who can effectively handle both the front end and the back end of a project. :+1: - I'm interested in continuing my study of the Python language primarily because I seem to really enjoy its machine language. I also enjoy creating websites, so I keep learning new frameworks.
+I'm now studying the machine language of Python, as well as React.js and Django, which is used for web development.
+- 📫 My email address is amos.babu@yahoo.com, and you can contact me there.
+
