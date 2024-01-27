@@ -1,3 +1,3 @@
-🐋 I go by Amos Babu and am from Kenya. I can effectively manage both the front end and back end of a project because I am a web developer and designer. My main programming tools are the Reactjs library and the Laravel framework.
-My apparent appreciation for Python's machine language is one of the reasons I wish to continue studying it. Because I enjoy making web apps so much, I'm constantly picking up new frameworks.
-Right now, I'm learning Python machine language and web development using Django.
+I'm Amos Babu from Kenya. As a web developer and designer, I am able to effectively manage both the front and back ends of a project. My primary programming tools are the ReactJS library and the Laravel framework.
+One of the reasons I want to continue learning Python is my obvious love for its machine language. Because I enjoy developing web applications so much, I'm continuously learning new frameworks.
+Currently, I'm learning Python machine language and web development with Django.
